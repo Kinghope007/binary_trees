@@ -19,7 +19,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
 }
 
 /**
- * binRY_tree_balance - Measure the balnce factor of a binary tree.
+ * binary_tree_balance - Measure the balnce factor of a binary tree.
  * @tree: Apointer to the rot node
  * Return: the balance factor of the tree.
  */
